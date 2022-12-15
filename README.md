@@ -1,7 +1,7 @@
 ## Running
 1. Load/visualize antbullet agent
 ```bash
-$ python 1_loader.py
+$ python3 1_loader.py
 ```
 > change policy in line  18, policy_file locatation example '1.sub_policy/PPO/ac'
 
